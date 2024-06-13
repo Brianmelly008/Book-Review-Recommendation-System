@@ -1,4 +1,3 @@
-# lib/db/seed_data.py
 from faker import Faker
 from lib.db.models import SessionLocal, Author, Book, create_tables
 
